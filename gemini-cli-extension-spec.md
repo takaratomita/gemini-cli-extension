@@ -54,6 +54,7 @@ Gemini CLI拡張を作り、**ギャラリーへの自動掲載で先行者利�
 {
   "name": "gemini-cli-extension",
   "version": "0.1.0",
+  "description": "Japanese public data from Gemini CLI: ...",
   "mcpServers": {},
   "contextFileName": "GEMINI.md",
   "excludeTools": []
@@ -111,3 +112,4 @@ Gemini CLI拡張を作り、**ギャラリーへの自動掲載で先行者利�
 |---|---|
 | 2026-10-08 | リポジトリ作成・Orca連携・本ファイル作成 |
 | 2026-10-08 | P0〜P3・P5 実装（gemini-extension.json・GEMINI.md・commands/japan-data/{support-org,houjin}.toml・README・LICENSE・.gitignore）。トピック設定・public確認済み。P4（掲載確認）は翌日以降 |
+| 2026-10-14 | 6日経ってもギャラリー未掲載。マニフェストに `description` を追加した（表示に使う項目のため。未掲載の原因かは未確認） |

@@ -1,5 +1,6 @@
 {
   "name": "gemini-cli-extension",
   "version": "0.1.0",
+  "description": "Japanese public data from Gemini CLI: look up corporate numbers (houjin bangou) and registered support organizations for foreign workers.",
   "contextFileName": "GEMINI.md"
 }
